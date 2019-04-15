@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title": "tarea 1",
+            "responsible": "Juan",
+            "description": "ordenar informes",
+            "priority": "low"
+        },
+        {
+            "title": "tarea 2",
+            "responsible": "Ana",
+            "description": "llamadas a clientes",
+            "priority": "medium"
+        },
+        {
+            "title": "tarea 3",
+            "responsible": "Luis",
+            "description": "reuniones",
+            "priority": "high"
+        }
+    ]
+}
